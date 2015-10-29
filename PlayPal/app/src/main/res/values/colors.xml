@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009900</color>
+    <color name="colorPrimaryDark">#009900</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#FFFFFF</color>
+    <color name="colorAccent">#009900</color>
+    <color name="drawer_item_title">#fff</color>
+    <color name="drawer_background_pressed">#992416</color>
+    <color name="drawer_divider">#272727</color>
+    <color name="formation_bg">#B2FFB2</color>
+</resources>

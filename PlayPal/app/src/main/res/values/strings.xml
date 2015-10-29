@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PlayPal</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Action Bar Items -->
+    <string name="action_settings">Settings</string>
+    <string name="action_friends">Profile</string>
+    <string name="action_inbox">Inbox</string>
+    <string name="action_news">News</string>
+
+    <!-- Nav Menu Items -->
+    <string name="nav_home">Home</string>
+    <string name="nav_board">Player Board</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_home</item>
+        <item>@string/nav_board</item>
+        <item>@string/nav_profile</item>
+    </string-array>
+
+    <string name="title_profile">Profile</string>
+    <string name="title_board">Player Board</string>
+    <string name="title_home">Home</string>
+
+</resources>
